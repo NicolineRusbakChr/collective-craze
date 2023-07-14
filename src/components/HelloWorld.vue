@@ -1,16 +1,18 @@
 <template>
   <div>
-    <div>
+    <div style="margin-bottom: 2rem;">
       <h3>Kategorier:</h3>
       <label v-for="category in categories" :key="category">
         <input type="checkbox" :value="category" v-model="selectedCategories" /> {{ category }}
       </label>
     </div>
-    <button @click="pickRandomItem">Næste</button>
-    <button @click="goBack" :disabled="!previousItem">Gå tilbage</button>
-    <p v-if="selectedCategory">Kategori: {{ selectedCategory }}</p>
-    <p v-if="selectedItem">Spørgsmål: {{ selectedItem.name }}</p>
+    <p v-if="selectedCategory">Kategori: <span style="font-weight: bold;">{{ selectedCategory }}</span></p>
+    <p v-if="selectedItem" style="font-size: 1.5rem;">{{ selectedItem.name }}</p>
     <p v-if="!remainingItems.length && usedItems.length > 0">Det var den sidste i de valgte kategorier</p>
+    <div style="position: absolute; bottom: 0; margin-bottom: 2rem; left: 50%; transform: translateX(-50%);">
+      <button @click="pickRandomItem">Næste spørgsmål</button>
+      <button @click="goBack" :disabled="!previousItem">Tilbage</button>
+    </div>
   </div>
 </template>
 
