@@ -1,16 +1,16 @@
 <template>
   <div>
     <div>
-      <h3>Select Categories:</h3>
+      <h3>Kategorier:</h3>
       <label v-for="category in categories" :key="category">
         <input type="checkbox" :value="category" v-model="selectedCategories" /> {{ category }}
       </label>
     </div>
-    <button @click="pickRandomItem">Pick Random Item</button>
-    <button @click="goBack" :disabled="!previousItem">Go Back</button>
-    <p v-if="selectedItem">Selected Item: {{ selectedItem.name }}</p>
-    <p v-if="selectedCategory">Category: {{ selectedCategory }}</p>
-    <p v-if="!remainingItems.length && usedItems.length > 0">No more items in category</p>
+    <button @click="pickRandomItem">Næste</button>
+    <button @click="goBack" :disabled="!previousItem">Gå tilbage</button>
+    <p v-if="selectedCategory">Kategori: {{ selectedCategory }}</p>
+    <p v-if="selectedItem">Spørgsmål: {{ selectedItem.name }}</p>
+    <p v-if="!remainingItems.length && usedItems.length > 0">Det var den sidste i de valgte kategorier</p>
   </div>
 </template>
 

@@ -1,24 +1,188 @@
 {
     "items": [
         {
-        "name": "Item 1",
-        "category": "Category 1"
+            "name": "Bedste pizzatopping?",
+            "category": "Herd Mentality"
         },
         {
-        "name": "Item 2",
-        "category": "Category 2"
+            "name": "Bedste Disney film nogensinde?",
+            "category": "Herd Mentality"
         },
         {
-        "name": "Item 3",
-        "category": "Category 1"
+            "name": "Have fingre istedet for tæer eller tæer istedet for fingre?",
+            "category": "Vil du hellere"
         },
         {
-        "name": "Item 4",
-        "category": "Category 3"
+            "name": "Vil du hellere have det for varmt eller koldt",
+            "category": "Vil du hellere"
         },
         {
-        "name": "Item 5",
-        "category": "Category 2"
+            "name": "Hvem har flest ulæste mails/beskeder lige nu?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Hvad er den bedste julefilm?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Nævn en kropsdel som alle kun har en af",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Nævn en film med Mads Mikkelsen",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Nævn en kendt Jennifer",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvis du opfandt toasteren, men ikke ville kalde den en toaster, hvad skulle den så hedde?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Skriv en lyd fra et dyr",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvad er den bedste læskedrik?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Nævn den mindste ting",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Nævn en madvare der har huller",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvad er den bedste dessert?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvad er din yndlings kropslyd?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvad er den bedste sovs/dip?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvad er den bedste måde at koge et æg på?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvor ofte burde man bruge toilettet om dagen?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvad er det stærkeste dyr på Jorden?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvis du kun kunne spise en ret resten af dit liv, hvilket lands nationalret ville du så vælge?",
+            "category": "Herd Mentality"
+        },
+        {
+            "name": "Hvem har den bedste Batman impression?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Hvem er mest sandsynligt til at lave faldskærmsudspring?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Hvem ville dø først i en gyser film?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Hvem er mest sandsynligt til at flyve til månen?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Hvem er mest sandsynlig til at komme hjem med en ny hund?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Hvem er mest sandsynlig til at slå en verdensrekord?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Hvem er med størst sandsynlighed en hemmelig spion?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Hvem er mest sandsynlig til at finde en portal til en anden dimension?",
+            "category": "Most Likely To"
+        },
+        {
+            "name": "Dit hår gror ukonturollerbart langt eller du bliver skaldet?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Være dum og ubrugelig eller grim og lugte dårlig?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Være smuk eller intelligent?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Kunne flyve eller trække vejret under vandet?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Være proffesionel sanger eller professionel kok?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Grine når andre græder eller blive sur når andre er glade?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Slikke en fremmeds fod eller hånd?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Miste 20% af din IQ eller rigdom?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Kun høre de samme sange igen og igen eller kun kunne høre sange en gang?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Aldrig blive syg eller aldrig have brug for at sove?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "aldrig se flere film eller aldrig høre mere musik?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "At der altid er dag eller nat?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Snuble på alle trapper eller slå din lilletå på alle borde du går forbi?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Aldrig kunne høre igen eller aldrig kunne snakke igen?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Få hjernefrys hver gang du drikker eller tandpine hver gang du spiser?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "gøre det rigtige, men alle hader dig for det eller gøre det forkerte, men alle elsker dig for det?",
+            "category": "Vil du hellere"
+        },
+        {
+            "name": "Kun kunne gå eller kun kunne løbe?",
+            "category": "Vil du hellere"
         }
     ]
 }
